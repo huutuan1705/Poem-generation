@@ -1,8 +1,11 @@
 # POEM GENERATOR
 ## 1. Introduction
 In this project, we will implement a program using a Text Generation model with the theme of generating Vietnamese pentasyllabic poetry (5-word verse) based on an input line provided by the user. Therefore, the Input/Output of the program is as follows:
+
 • Input: A string consisting of 5 words (representing the first line of the poem).
+
 • Output: n subsequent lines of the poem (n is adjustable)
+
 With the poetry generation model, we will build it using a transformer model (utilizing both the encoder and decoder components).
 
 ## 2. Prepare dataset
